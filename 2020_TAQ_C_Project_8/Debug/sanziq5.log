@@ -1,0 +1,5 @@
+﻿  源1.cpp
+C:\Users\Ирина\source\repos\sanziq5\sanziq5\源1.cpp(89,6): warning C4101: “e”: 未引用的局部变量
+C:\Users\Ирина\source\repos\sanziq5\sanziq5\源1.cpp(798,29): warning C4101: “board2”: 未引用的局部变量
+C:\Users\Ирина\source\repos\sanziq5\sanziq5\源1.cpp(819,11): warning C4101: “k”: 未引用的局部变量
+  sanziq5.vcxproj -> C:\Users\Ирина\source\repos\sanziq5\Debug\sanziq5.exe
